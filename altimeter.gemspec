@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "altimeter.gemspec",
     "lib/altimeter.rb",
     "test/helper.rb",
     "test/test_altimeter.rb"
