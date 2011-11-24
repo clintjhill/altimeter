@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "altimeter"
-  s.version = "0.1.0"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Clint Hill"]
-  s.date = "2011-11-13"
+  s.date = "2011-11-24"
   s.description = "A tool to measure the tone or attitude of a body of text."
   s.email = "clint.hill@gmail.com"
   s.extra_rdoc_files = [

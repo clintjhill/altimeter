@@ -13,11 +13,13 @@ class AltimeterPredicates < Test::Unit::TestCase
         
     should "have angry predicates" do
       assert @dummy.respond_to? 'hostile?'
+      assert @dummy.respond_to? 'aggressive?'
       assert @dummy.respond_to? 'frustrated?'
     end
     
     should "have happy predicates" do
       assert @dummy.respond_to? 'passive?'
+      assert @dummy.respond_to? 'peaceful?'
       assert @dummy.respond_to? 'pleased?'
     end
   end

@@ -24,7 +24,15 @@ module Altimeter
       
     end
     
+    def peaceful?
+      
+    end
+    
     def passive?
+      
+    end
+    
+    def aggressive?
       
     end
     
