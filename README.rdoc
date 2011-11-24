@@ -1,8 +1,11 @@
 = altimeter
+a tool to measure the level of your language.
 
-Description goes here.
+Altimeter provides functionality to read string text and
+determine levels of anger, happiness and other moods or 
+temperaments.
 
-== Contributing to altimeter
+= Contributing to altimeter
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
@@ -14,6 +17,5 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2011 Clint Hill. See LICENSE.txt for
-further details.
+Copyright (c) 2011 Clint Hill. See LICENSE.txt for further details.
 
